@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function initSection(type, renderFn) {
   try {
-    const response = await fetch(`${API_BASE}/assets/data/${type}.json`);
+    const response = await fetch(`${API_BASE}assets/data/${type}.json`);
     if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
     const data = await response.json();
     renderFn(data);
