@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIMLab | Artificial Intelligence in Medicine</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="logo">
+        <img src="assets/img/lab/aimlab_logo.png" alt="AIMLab logo">
+        <span>AIMLab</span>
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-controls="navLinks" aria-expanded="false">
+        ☰ Menu
+      </button>
+
+      <ul class="nav-links" id="navLinks">
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="join.html">Join Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Artificial Intelligence in Medicine Lab</h1>
+    <p>Advancing trustworthy AI for medical imaging, physiological signal analysis, and human-centered healthcare technologies. Our research integrates machine learning, computer vision, and biomedical signal processing to develop reliable AI-assisted
+diagnosis systems and intelligent healthcare technologies.</p>
+    <div class="hero-badges">
+      <span class="badge">NYCU · IBE</span>
+      <span class="badge">Medical Imaging · Biosignals</span>
+      <span class="badge green">Trustworthy AI</span>
+    </div>
+  </section>
+
+  <div class="container">
+    <h2 class="section-title">Research Highlights</h2>
+    <div id="projects-container" class="grid"></div>
+
+    <hr>
+
+    <div class="grid" style="grid-template-columns: 2fr 1fr;">
+      <div>
+        <h2 class="section-title">Featured Publications</h2>
+        <div id="pubs-container" data-featured="true"></div>
+        <div style="margin-top:14px;">
+          <a class="pill" href="publications.html" style="text-transform:none;">View All Publications →</a>
+        </div>
+      </div>
+
+      <div>
+        <h2 class="section-title">Latest News</h2>
+        <div id="news-container"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      &copy; 2026 AIMLab — National Yang Ming Chiao Tung University (NYCU)<br>
+      Engineering Building 6, Room EF466, 1001 Daxue Rd., East District, Hsinchu City 300, Taiwan
+    </p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

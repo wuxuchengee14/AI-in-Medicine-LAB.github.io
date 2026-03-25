@@ -1,0 +1,164 @@
+{
+  "pi": {
+    "name": "Chia-Yen Lee",
+    "name_zh": "李佳燕",
+    "title": "Associate Professor",
+    "group": "Institute of Intelligent Bioelectrical Engineering (IBE)",
+    "affiliation": "National Yang Ming Chiao Tung University (NYCU)",
+    "office": "Engineering Building 6, Room 466 (EF466)",
+    "phone": "+886-3-5731750",
+    "email": "chiayenlee@nycu.edu.tw",
+    "photo": "assets/img/people/chia-yen-lee.png",
+    "expertise": [
+      "Smart Healthcare",
+      "Learning- and AI-aided Diagnosis Systems",
+      "Medical Image Processing and Analysis",
+      "Medical Device Design and Development",
+      "Machine Learning and Deep Learning Model Development",
+      "Applications of Computer Vision Technology",
+      "Home Care"
+    ],
+    "field": "Artificial Intelligence and Computer Engineering",
+    "links": {
+      "nycu_scholar": "https://scholar.nycu.edu.tw/zh/persons/chia-yen-lee/",
+      "department_profile": "https://dee.nycu.edu.tw/teachers.php?locale=en&pa=getItem&teacher_id=515",
+      "ibe_profile": "https://www.nycu.edu.tw/ibe/ch/app/artwebsite/view?id=6791&module=artwebsite&serno=8704e68e-d00b-4805-90a8-514d5ecf316f"
+    }
+  },
+  "members": [
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 01",
+      "role": "Master Student",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    },
+    {
+      "name": "Member 02",
+      "role": "Research Assistant",
+      "photo": "assets/img/avatar.svg",
+      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
+      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+    }
+
+  ],
+  "alumni": [
+    { "year": "2025", "name": "Alumni 01", "degree": "Master", "current": "PhD Student at Stanford University" },
+    { "year": "2024", "name": "Alumni 02", "degree": "Master", "current": "AI Researcher at TSMC" },
+    { "year": "2024", "name": "Alumni 03", "degree": "Bachelor", "current": "Software Engineer at Google" },
+    { "year": "2025", "name": "Alumni 01", "degree": "Master", "current": "PhD Student at Stanford University" },
+    { "year": "2024", "name": "Alumni 02", "degree": "Master", "current": "AI Researcher at TSMC" }
+  ]
+}

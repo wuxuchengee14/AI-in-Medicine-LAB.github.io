@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Remote Heart Rate Estimation",
+    "description": "Developing robust rPPG algorithms for clinical settings.",
+    "img": "assets/img/placeholder_research.svg",
+    "featured": true
+  },
+  {
+    "title": "Cardiovascular Risk Prediction",
+    "description": "Long-term monitoring and risk stratification using AI.",
+    "img": "assets/img/placeholder_project.svg",
+    "featured": true
+  }
+]

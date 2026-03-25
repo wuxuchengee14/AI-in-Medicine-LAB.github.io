@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Advancing Emotional State Recognition Using Multi-task Learning with Dual CNN-LSTM",
+    "authors": "Wang, C. P.; Chien, H. C.; Chen, X. Y.; Lin, H. K.; Chang, C. S.; Lee, C.-Y.; Chen, J.-C.",
+    "venue": "ICBHI 2024 Proceedings (published 2025, IFMBE Proceedings)",
+    "year": 2025,
+    "featured": true,
+    "links": {
+      "project": ""
+    }
+  },
+  {
+    "title": "Deep Learning Approaches for Emotion Recognition with Missing PPG and RESP Signals Using Multi-channel Data",
+    "authors": "Chen, X. Y.; Chien, H. C.; Wang, C. P.; Wang, H. J.; Lee, C.-Y.",
+    "venue": "ICBHI 2024 Proceedings (published 2025, IFMBE Proceedings)",
+    "year": 2025,
+    "featured": true,
+    "links": {
+      "project": ""
+    }
+  },
+  {
+    "title": "Feature Extraction of fMRI Signals Based on Autoencoder for Constructing a Two-Stage Multi-class Emotion Classification Model",
+    "authors": "Chang, C. S.; Lu, S. P.; Lee, C.-Y.",
+    "venue": "ICBHI 2024 Proceedings (published 2025, IFMBE Proceedings)",
+    "year": 2025,
+    "featured": false,
+    "links": {
+      "project": ""
+    }
+  },
+  {
+    "title": "Predicting Emotions Using Channel Attention Mechanism on fMRI Signal Data",
+    "authors": "Lin, H. K.; Lee, C.-Y.",
+    "venue": "ICBHI 2024 Proceedings (published 2025, IFMBE Proceedings)",
+    "year": 2025,
+    "featured": false,
+    "links": {
+      "project": ""
+    }
+  },
+  {
+    "title": "Boosting predictive accuracy in tumor cellularity evaluation with AI-powered ensemble methods",
+    "authors": "Wang, C. P.; Yeh, Y. C.; Chen, J.-C.; Lee, C.-Y.",
+    "venue": "Health and Technology, 15(3), 577–587",
+    "year": 2025,
+    "featured": true,
+    "links": {
+      "project": ""
+    }
+  },
+  {
+    "title": "Attention-Driven Semantic Segmentation of Liver Parenchyma in Ultrasound Imaging with Application to Progressive NASH Risk Stratification",
+    "authors": "Ku, C. C.; Wang, H. J.; Ku, C. K.; Chang, C. S.; Lee, C.-Y.",
+    "venue": "IEEE AVSS (Proceedings), Conference article",
+    "year": 2025,
+    "featured": false,
+    "links": {
+      "project": ""
+    }
+  }
+]

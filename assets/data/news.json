@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-03-01",
+    "text": "Paper on {{TOPIC_A}} accepted to {{CONFERENCE_NAME}}."
+  },
+  {
+    "date": "2026-02-15",
+    "text": "AIMLab welcomes Member 01 and Member 02 to the team."
+  },
+  {
+    "date": "2026-01-10",
+    "text": "Grant awarded for {{PROJECT_TITLE}} by {{FUNDING_AGENCY}}."
+  }
+]

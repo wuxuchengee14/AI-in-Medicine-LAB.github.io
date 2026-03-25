@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>People | AIMLab</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="logo">
+        <img src="assets/img/lab/aimlab_logo.png" alt="AIMLab logo">
+        <span>AIMLab</span>
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-controls="navLinks" aria-expanded="false">
+        ☰ Menu
+      </button>
+
+      <ul class="nav-links" id="navLinks">
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="join.html">Join Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2 class="section-title" style="text-align:center; display:block;">Principal Investigator</h2>
+    <div id="people-pi"></div>
+
+    <h2 class="section-title">Lab Members</h2>
+    <div id="people-members" class="people-grid"></div>
+
+    <h2 class="section-title" style="margin-top: 60px;">Alumni</h2>
+    <div class="alumni-table-container">
+      <table class="alumni-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Name</th>
+            <th>Degree</th>
+            <th>Current Position / Destination</th>
+          </tr>
+        </thead>
+        <tbody id="alumni-list"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

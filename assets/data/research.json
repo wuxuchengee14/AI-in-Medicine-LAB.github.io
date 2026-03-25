@@ -1,0 +1,101 @@
+{
+  "programs": [
+    {
+      "id": "cag",
+      "title": "CAG Program (Coronary Angiography)",
+      "summary": "AI analysis of coronary angiography imaging/video for clinically compatible decision support.",
+      "focus": [
+        "Vessel structure understanding and segmentation",
+        "Lesion-related representation learning",
+        "Evaluation protocols aligned with clinical workflow",
+        "Interpretability and reliability-oriented design"
+      ],
+      "tags": ["CAG", "Medical Imaging", "Clinical AI"],
+      "links": {
+        "projects": "projects.html",
+        "publications": "publications.html"
+      }
+    },
+    {
+      "id": "frontier-ai",
+      "title": "Frontier AI Program",
+      "summary": "Human-centered AI for care scenarios: multimodal emotion recognition, empathic response generation, and rPPG-driven AI models.",
+      "focus": [
+        "Multimodal emotion recognition (robustness & generalization)",
+        "Empathic response generation with quality control",
+        "rPPG-driven AI modeling for contactless physiological sensing"
+      ],
+      "tags": ["Emotion AI", "Empathic Generation", "rPPG"],
+      "links": {
+        "projects": "projects.html",
+        "publications": "publications.html"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "smart-healthcare",
+      "title": "Smart Healthcare",
+      "summary": "Deployable AI systems for clinical and home-care settings.",
+      "tags": ["Smart Healthcare", "System Design"],
+      "links": {
+        "publications": "publications.html"
+      }
+    },
+    {
+      "id": "ai-aided-diagnosis",
+      "title": "Learning- and AI-aided Diagnosis Systems",
+      "summary": "Reliable decision support with clinically meaningful evaluation and validation.",
+      "tags": ["Diagnosis", "Reliability"],
+      "links": {
+        "publications": "publications.html"
+      }
+    },
+    {
+      "id": "medical-imaging",
+      "title": "Medical Image Processing & Analysis",
+      "summary": "Medical image/video understanding including segmentation, representation learning, and robust pipelines.",
+      "tags": ["Medical Imaging", "Computer Vision"],
+      "links": {
+        "projects": "projects.html",
+        "publications": "publications.html"
+      }
+    },
+    {
+      "id": "device-dev",
+      "title": "Medical Device Design & Development",
+      "summary": "Integration of sensing, embedded systems, and AI for practical healthcare devices.",
+      "tags": ["Device", "Integration"],
+      "links": {
+        "projects": "projects.html"
+      }
+    },
+    {
+      "id": "ml-dl",
+      "title": "Machine Learning / Deep Learning Model Development",
+      "summary": "Modeling methods (e.g., CNN-based learning, classification) for medical data analytics.",
+      "tags": ["Deep Learning", "Modeling"],
+      "links": {
+        "publications": "publications.html"
+      }
+    },
+    {
+      "id": "computer-vision",
+      "title": "Applications of Computer Vision Technology",
+      "summary": "Vision-based perception for healthcare applications.",
+      "tags": ["Computer Vision"],
+      "links": {
+        "projects": "projects.html"
+      }
+    },
+    {
+      "id": "home-care",
+      "title": "Home Care",
+      "summary": "AI solutions for monitoring and support in home-care scenarios.",
+      "tags": ["Home Care"],
+      "links": {
+        "projects": "projects.html"
+      }
+    }
+  ]
+}
