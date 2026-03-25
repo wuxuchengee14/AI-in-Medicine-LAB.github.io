@@ -1,7 +1,7 @@
 {
   "pi": {
     "name": "Chia-Yen Lee",
-    "name_zh": "李佳燕",
+    "name_zh": "æä½³ç",
     "title": "Associate Professor",
     "group": "Institute of Intelligent Bioelectrical Engineering (IBE)",
     "affiliation": "National Yang Ming Chiao Tung University (NYCU)",
@@ -27,138 +27,288 @@
   },
   "members": [
     {
-      "name": "Member 01",
+      "name": "Member 0123",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 01",
       "role": "Master Student",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     },
     {
       "name": "Member 02",
       "role": "Research Assistant",
       "photo": "assets/img/avatar.svg",
-      "interests": ["{{INTEREST_A}}", "{{INTEREST_B}}"],
-      "links": { "email": "{{EMAIL}}", "github": "{{GITHUB}}", "scholar": "{{SCHOLAR}}" }
+      "interests": [
+        "{{INTEREST_A}}",
+        "{{INTEREST_B}}"
+      ],
+      "links": {
+        "email": "{{EMAIL}}",
+        "github": "{{GITHUB}}",
+        "scholar": "{{SCHOLAR}}"
+      }
     }
-
   ],
   "alumni": [
-    { "year": "2025", "name": "Alumni 01", "degree": "Master", "current": "PhD Student at Stanford University" },
-    { "year": "2024", "name": "Alumni 02", "degree": "Master", "current": "AI Researcher at TSMC" },
-    { "year": "2024", "name": "Alumni 03", "degree": "Bachelor", "current": "Software Engineer at Google" },
-    { "year": "2025", "name": "Alumni 01", "degree": "Master", "current": "PhD Student at Stanford University" },
-    { "year": "2024", "name": "Alumni 02", "degree": "Master", "current": "AI Researcher at TSMC" }
+    {
+      "year": "2025",
+      "name": "Alumni 01",
+      "degree": "Master",
+      "current": "PhD Student at Stanford University"
+    },
+    {
+      "year": "2024",
+      "name": "Alumni 02",
+      "degree": "Master",
+      "current": "AI Researcher at TSMC"
+    },
+    {
+      "year": "2024",
+      "name": "Alumni 03",
+      "degree": "Bachelor",
+      "current": "Software Engineer at Google"
+    },
+    {
+      "year": "2025",
+      "name": "Alumni 01",
+      "degree": "Master",
+      "current": "PhD Student at Stanford University"
+    },
+    {
+      "year": "2024",
+      "name": "Alumni 02",
+      "degree": "Master",
+      "current": "AI Researcher at TSMC"
+    }
   ]
 }
